@@ -1,10 +1,3 @@
-General Note :
-
-- Problems may not be rendered properly in github at it doens't support latex equation format
-- Refer solve.py for the optimal solution
-- Refer naive.py for naive solution
-- Refer input and output folders for corresponding input and output
-
 ## Helping Mario
 
 ### Description
@@ -38,3 +31,11 @@ $1 \leq x_i \leq 10^5$
 ### Output Format
 
 For each test case, output a single integer $m$ which denotes the maximum number of pipes that can be fit inside the bag.
+
+
+## General Note :
+
+- Problems may not be rendered properly in github at it doens't support latex equation format
+- Refer solve.py for the optimal solution
+- Refer naive.py for naive solution
+- Refer input and output folders for the input and the corresponding output
