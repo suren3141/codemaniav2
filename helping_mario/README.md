@@ -21,11 +21,23 @@ The first line contains an integer $`T`$ denoting the number of test cases. The 
 
 $`1 \leq T \leq 10`$
 
+$`\sqrt{2}`$
+
 $`1 \leq l \leq 10^9`$
 
 $`1 \leq n \leq 10^5`$
 
 $`1 \leq x_i \leq 10^5`$
+
+This math is inline $`a^2+b^2=c^2`$.
+
+This is on a separate line:
+
+```math
+a^2+b^2=c^2
+```
+
+
 
 ### Output Format
 
