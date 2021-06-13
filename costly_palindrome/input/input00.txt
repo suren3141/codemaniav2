@@ -1,0 +1,4 @@
+3
+6 abbbac
+6 aaaabb
+11 abacadaeafa

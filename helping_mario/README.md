@@ -35,7 +35,9 @@ For each test case, output a single integer $m$ which denotes the maximum number
 
 ## General Note :
 
-- Problems may not be rendered properly in github at it doens't support latex equation format
-- Refer solve.py for the optimal solution
-- Refer naive.py for naive solution
-- Refer input and output folders for the input and the corresponding output
+- Problems may not be rendered properly in github at it doens't support latex equation format. If so, click [here](https://hackerrank.com/contest/codemania-v2) to view them in hackerrank.
+- Refer [solve.py](solve.py) for the optimal solution.
+- Refer [naive.py](naive.py) for the naive solution.
+- Refer input and output folders for the input and the corresponding output.
+- Refer [sample.txt](sample.txt) for a sample test case.
+

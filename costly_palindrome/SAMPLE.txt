@@ -1,0 +1,22 @@
+INPUT
+3
+6 abbbac
+6 aaaabb
+11 abacadaeafa
+
+OUTPUT
+1
+0
+4
+
+
+
+EXPLANATION
+
+There are 3 test cases.
+
+- In the first case, the character 'c' can be removed to form 'abbba' which is a palindrome. So the cost in $1$.
+
+- In the second case, none of the characters need to be removed as the string can be rearranged to form 'aabbaa' which is one of the possible palindromes. So the cost is $0$.
+
+- In the third case, at least $4$ characters must be removed to form a palindrome. One such palindrome is 'aaabaaa' which is formed after removing 'c', 'd', 'e', and 'f'.

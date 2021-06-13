@@ -1,9 +1,16 @@
+## Strongest fisherman
+
+### Description
+
 Captain Haddock wants to recruit the most strongest fisherman to his sail boat. For this purpose he places them on an island and asks them to throw a fishing net with their full strength so that they can catch as many fish as possible.
 
-Fishes are located randomly around the island. The fishing net is square shaped, and a fish gets caught in the net if its within the reach of the net. In a 2D cartesian plane, the island is located at $(0, 0)$. Given the positions of the fish in the 2D plane and the strength of the person (given by the distance to which he could throw the net), find the number of fish that could be caught by each fisherman.
+The fish are located randomly around the island. The fishing net is square shaped, and a fish gets caught in the net if its within the reach of the net. In a 2D cartesian plane, the island is located at $(0, 0)$. Given the positions of the fish in the 2D plane and the strength of the person (given by the distance to which he could throw the net), find the number of fish that could be caught by each fisherman.
 
 
-Input Format
+![image](https://s3.amazonaws.com/hr-assets/0/1623397672-ac9fe3996d-temp1.jpg)
+
+
+### Input Format
 
 The first line contains two space separated integers, $n$ and $m$, where $n$ denotes the the number of fish and $m$ denotes the number of fishermen.
 
@@ -14,7 +21,7 @@ Each of the $m$ following lines contain a single integer $d_j$, which represents
 **Note that the fishing net is square shaped and a fish is caught if $x_i \leq d_j$ and $y_i \leq d_j$**
 
 
-Constraints
+### Constraints
 
 $1 \leq n \leq 10^5$
 
@@ -26,6 +33,6 @@ $0 \leq d_j \leq 10^9$
 
 
 
-Output Format
+### Output Format
 
 For each fisherman $j$, output the number of fish that he can catch.

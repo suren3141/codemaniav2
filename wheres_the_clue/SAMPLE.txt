@@ -1,0 +1,24 @@
+INPUT
+
+3
+5 2 3
+5 4 6
+10 12 21
+
+
+OUTPUT
+
+8
+16
+84
+
+
+EXPLANATION
+
+There are three test cases.
+
+- In the first case, the clues appear at times: 2, 3, 4, 6, 8, 10, ... and so on. The fifth clue appears at $t_n = 8$
+
+- In the second case, the clues appear at : 4, 6, 8, 12, 16, ..., and for $n=5$, the clue appears at $t_n = 16$
+
+- Similarly in the last case, the  $10$th clue appears at $t_n =  84$.

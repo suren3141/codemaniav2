@@ -1,0 +1,31 @@
+INPUT
+
+3
+6 3
+10 3 2 42 5 1
+4 3 5 1 7 9
+6 2
+10 3 2 42 5 1
+4 3 5 1 7 9
+6 1
+10 3 2 42 5 1
+4 3 5 1 7 9
+
+
+OUTPUT
+
+68
+60
+42
+
+
+
+EXPLANATION
+
+In all three test cases, we have the same 3 pillars. However, the value of $k$ changes.
+
+In the first test case, you could chose the pillars $1$, $3$ and $5$ for a combined $F_{max} = min(4, 5, 7) \times (10 + 2 + 5) = 68$.
+
+In the second test case, you could chose the pillars $1$ and $5$ for a combined $F_{max} = min(4, 7) \times (10  + 5) = 60$.
+
+In the third test case, you could chose the pillar $4$ for a combined $F_{max} = 1 \times 42 = 42$.
