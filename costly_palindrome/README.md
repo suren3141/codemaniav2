@@ -26,5 +26,13 @@ The string $s$ contains only lower case ASCII characters.
 For each test case, print a single integer representing the palindrome cost.
 
 
+## General Note :
+
+- Problems may not be rendered properly in github as markdown does not support latex equations. So, click [here](https://www.hackerrank.com/contests/codemania-v2) to view them with better render in hackerrank.
+- Refer [solve.py](solve.py) for the optimal solution.
+- Refer [naive.py](naive.py) for the optimal solution.
+- Refer input and output folders for the input and the corresponding output.
+- Refer [SAMPLE.txt](SAMPLE.txt) for a sample test case.
+
 
 

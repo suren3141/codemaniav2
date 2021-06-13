@@ -36,3 +36,13 @@ $0 \leq d_j \leq 10^9$
 ### Output Format
 
 For each fisherman $j$, output the number of fish that he can catch.
+
+
+## General Note :
+
+- Problems may not be rendered properly in github as markdown does not support latex equations. So, click [here](https://www.hackerrank.com/contests/codemania-v2) to view them with better render in hackerrank.
+- Refer [solve.py](solve.py) for the optimal solution.
+- Refer [naive.py](naive.py) for the optimal solution.
+- Refer input and output folders for the input and the corresponding output.
+- Refer [SAMPLE.txt](SAMPLE.txt) for a sample test case.
+
