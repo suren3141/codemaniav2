@@ -9,7 +9,7 @@ Given the lengths of each pipe and the maximum capacity (length) of the bag, ca 
 
 ### Input Format
 
-The first line contains an integer $`T`$ denoting the number of test cases. The following $`2T`$ lines describe the test cases as follows:
+The first line contains an integer <img src="https://render.githubusercontent.com/render/math?math=T"> denoting the number of test cases. The following $`2T`$ lines describe the test cases as follows:
 
 - Each test case is described by 2 lines
 
@@ -19,7 +19,7 @@ The first line contains an integer $`T`$ denoting the number of test cases. The 
 
 ### Constraints
 
-$`1 \leq T \leq 10`$
+<img src="https://render.githubusercontent.com/render/math?math=1 \leq T \leq 10">
 
 $`\sqrt{2}`$
 
